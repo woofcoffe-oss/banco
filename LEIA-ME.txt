@@ -1,0 +1,14 @@
+BANCO SAMAN — PROJETO FICTÍCIO
+
+Conteúdo:
+- joao.html: página completa do Banco Saman, incluindo HTML, CSS e JavaScript do simulador SAC/PRICE.
+
+Como abrir:
+1. Extraia o arquivo ZIP.
+2. Abra a pasta Banco_Saman.
+3. Dê dois cliques em joao.html para abrir no navegador.
+
+Observações:
+- O projeto está concentrado em um único arquivo HTML; não precisa instalar Python, bibliotecas ou frameworks.
+- A fonte DM Sans/Manrope pode ser carregada do Google Fonts quando houver internet. Sem internet, o navegador usa fontes alternativas.
+- O simulador funciona localmente no navegador.
